@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
- * main - deermine if number is positive or negative
- * Description: Program will asssign a random numberto the variable in each line, it is executed
+ * main - Determine if number is positive or negative
+ * Description: Program will asssign a random number
+ * It is executed
  * Return: Always 0 (Success)
  */
 
