@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Determine if number is positive or negative
- * Description: Program will asssign a random number
+ * Description: Program will asssign a random number to the variable n.
  * It is executed
  * Return: Always 0 (Success)
  */
