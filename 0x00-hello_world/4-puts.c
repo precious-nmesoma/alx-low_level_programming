@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - main block
@@ -6,6 +5,6 @@
  */
 int main(void)
 {
-put ("\ "Programming is a building multilingual puzzzle);
-return (0);
+	put ("\"Programming is a building multilingual puzzzle");
+	Return (0);
 }
