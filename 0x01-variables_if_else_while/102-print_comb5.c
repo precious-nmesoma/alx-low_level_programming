@@ -9,7 +9,7 @@ int main(void)
 
 
 {
-	int first _nums;
+	int first_nums;
 	int second_nums;
 
 	for (first_nums = 0; first_nums < 100; first_nums++)
@@ -23,7 +23,7 @@ int main(void)
 
 
 	putchar (second_nums / 10 + '0');
-	putchar (secong_nums % 10 + '0');
+	putchar (second_nums % 10 + '0');
 
 	if (first_nums == 98 && second_nums == 99)
 	{
