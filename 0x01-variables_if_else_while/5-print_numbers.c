@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- *Description: Return value for main
  *
- * Retun: always return 0
+ * Retun: always returns 0
  *
  */
 int main(void)
