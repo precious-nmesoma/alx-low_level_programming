@@ -6,3 +6,5 @@ echo Write a program that prints the alphabet in lowercase, and then in uppercas
 Write a program that prints the alphabet in lowercase, followed by a new line.
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Write a program that prints all possible different combinations of two digits.
+Write a program that prints the lowercase alphabet in reverse, followed by a new line.
