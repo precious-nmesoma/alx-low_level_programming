@@ -1,9 +1,10 @@
 #include "main.h"
 /**
  * main -  prints the alphabet x10
+ *Returns: always return 0
  *
  */
-;void print_alphabet_x10(void)
+void print_alphabet_x10(void);
 {
 	int alpha1;
 	int alpha2;
