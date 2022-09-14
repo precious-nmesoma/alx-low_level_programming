@@ -1,3 +1,4 @@
+#include "main.h"
 #include <studio.h>
 /**
  * main - print out first 50
