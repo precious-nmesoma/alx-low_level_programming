@@ -6,7 +6,7 @@
  * You can only use _putchar twice in your code
  *
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int alpha;
 	int alpha2;
