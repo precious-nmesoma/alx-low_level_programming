@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * main -  prints the alphabet x10
- *Returns: always return 0
+ * main - void print_alphabet_x10(void)
+ * You can only use _putchar twice in your code
  *
  */
 void print_alphabet_x10(void);
+
 {
 	int alpha1;
 	int alpha2;
