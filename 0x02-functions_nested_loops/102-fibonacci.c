@@ -1,5 +1,5 @@
 #include "main.h"
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - print out first 50
  * fibonacci suit numbers
