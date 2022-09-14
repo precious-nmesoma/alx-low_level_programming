@@ -3,7 +3,7 @@
  * main -  prints the alphabet x10
  *
  */
-void void print_alphabet_x10(void)
+main void print_alphabet_x10(void)
 {
 	int alpha1;
 	int alpha2;
