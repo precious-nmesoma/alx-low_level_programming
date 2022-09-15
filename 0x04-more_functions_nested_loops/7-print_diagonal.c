@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  *  print_diagonal - draws a diagonal line on the terminal
  *  @n: number of times the diagonal line is printed
