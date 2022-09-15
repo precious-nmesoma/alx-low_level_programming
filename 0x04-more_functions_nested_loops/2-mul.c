@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * mul -  function that multiplies two integers.
  * @u: first number that will run the program
@@ -9,7 +10,7 @@ int mul(int u, int x)
 {
 	int product;
 
-	product = u * x
+	product = u * x;
 	return (product);
 }
 
