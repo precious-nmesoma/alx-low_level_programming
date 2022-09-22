@@ -20,5 +20,5 @@ char *rot13(char *s)
 		if (s[j] == a[i]) /*if alpha matches, set to index in b arr*/
 			s[j] = b[i];
 	}
-	return(s);
+	return (s);
 }
