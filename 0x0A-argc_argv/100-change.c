@@ -1,6 +1,7 @@
-#include "main.h"
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include "main.h"
+
 /**
  * main - prints the min num of coins to make change for an amount of money
  *
@@ -9,6 +10,7 @@
  * Return: int
  *
  */
+
 int main(int argc, char *argv[])
 {
 	unsigned int count = 0;
@@ -25,6 +27,7 @@ int main(int argc, char *argv[])
 	}
 	count = coin_count(count, atoi(argv[1]));
 	printf("%d\n", count);
+
 	return (0);
 }
 /**
@@ -34,6 +37,7 @@ int main(int argc, char *argv[])
  * @num: argv[1] changed to int
  * Return: int
  */
+
 unsigned int coin_count(unsigned int count, int num)
 {
 	unsigned int sum = 0;
@@ -65,4 +69,3 @@ unsigned int coin_count(unsigned int count, int num)
 	}
 	return (count);
 }
-
