@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include <stdio.h>
 /**
  * main - prints the min num of coins to make change for an amount of money
  *
