@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- *
+ * Descrpition: function that concatenates all the arguments of your program.
  * argstostr - convert the params passed to the program to string
  * @ac: the argument count
  * @av: the argument vector
