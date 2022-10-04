@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * Descrpition: function that concatenates all the arguments of your program.
- * *argstostr - convert the params passed to the program to string
+ * argstostr - convert the params passed to the program to string
  * @ac: the argument count
  * @av: the argument vector
  *
- * Return: ..
+ * Return: anything
  */
-char *argstostr(int ac, char **av)
+
+char *argstostr(int ac, char **av);
 {
 	int ch = 0, i = 0, j = 0, k = 0;
 	char *s;
