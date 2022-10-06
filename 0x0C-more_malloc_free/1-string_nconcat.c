@@ -2,9 +2,9 @@
 #include "main"
 /**
  * string_nconcat - function that concatenates two strings
- * @s1 - input string 1
- * @s2 - input string 2
- * @n - first n bytes
+ * @s1: input string 1
+ * @s2: input string 2
+ * @n: first n bytes
  * Return: char
  *
  */
