@@ -32,7 +32,7 @@ int op_sub(int a, int b)
  */
 int op_mul(int a, int b)
 {
-	return (a * b)
+	return (a * b);
 }
 /**
 * op_div - divides a by b
@@ -48,7 +48,7 @@ int op_div(int a, int b)
 		printf("Error\n");
 		exit(100);
 	}
-	return (a / b)
+	return (a / b);
 }
 /**
 * op_mod - find the remainder of the division of a by b
