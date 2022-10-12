@@ -1,5 +1,5 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include "3-calc.h"
 /**
  * main - performs simple operations
@@ -10,10 +10,10 @@
  */
 int main(int argc, char *argv[])
 {
-	int a, b, c;
-	
-
+	int a, b, c;	
 	int (*f)(int, int);
+
+	if (argc != 4)
 	{
 		printf("Error\n");
 		exit(98);
